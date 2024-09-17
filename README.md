@@ -20,6 +20,6 @@ Eatzilla is a user-friendly food delivery platform that connects customers with 
 - **Yup**: Validation schema builder for form validation with Formik.
 
 ### Backend
--- **Spring Boot**: Backend framework for building REST APIs.
+- **Spring Boot**: Backend framework for building REST APIs.
 - **JWT**: Secure authentication and authorization.
 - **MySQL**: Relational database for storing user, restaurant, and order data..
