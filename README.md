@@ -4,14 +4,11 @@
 Eatzilla is a user-friendly food delivery platform that connects customers with their favorite restaurants. It offers a seamless experience for users to browse, order rack their meals, while providing restaurant partners a reliable platform to manage their orders.
 
 ## Features
-
 - **User Registration & Authentication**: Secure login and sign-up functionality using JWT (JSON Web Token).
 - **Browse Restaurants & Menus**: Explore a wide range of restaurants and their menus ,cuisine, and rating.
-- **Order Food**: Quick and easy food ordering experience .
-- **Payment Integration**: Secure payment gateway for smooth transactions.
-- **Restaurant Dashboard**: Manage menu, view orders, and update Status sales for restaurant partners.
-- **Admin Panel**: Monitor overall operations, user activities, and platform analytics.
-
+- **Order Food**: Quick and easy food ordering experience.
+- **Restaurant Dashboard**: Manage menu, view orders, and update Status sales for restaurant partners
+- 
 ## Tech Stack
 
 ### Frontend
