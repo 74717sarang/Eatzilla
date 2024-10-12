@@ -46,12 +46,10 @@ It features user authentication, real-time order status(Accept,Pending,Complete,
 - Run the Spring Boot application using:
    **mvn spring-boot:run**
 
+
 2. **Frontend Setup**:
 - Navigate to the `frontend-react` folder.
 - Install dependencies using:
-
      **npm install**
-  ```
 - Start the React development server:
-  
      **npm start**
