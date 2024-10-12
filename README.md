@@ -1,9 +1,9 @@
-**Eatzilla Food Delivery System**
+# **Eatzilla Food Delivery System**
 
 Welcome to **Eatzilla**, a food delivery system built to streamline the process of ordering food online.
 This project encompasses a full-stack application designed to manage users, restaurants, menus, and food orders efficiently.
 
-**Project Overview:**
+## **Project Overview:**
 
 Eatzilla provides a seamless experience for customers to explore restaurants, browse menus, and place food orders.
 It features user authentication, real-time order status(Accept,Pending,Complete,Deliverd)and an intuitive user interface.
